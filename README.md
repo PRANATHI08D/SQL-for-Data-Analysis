@@ -28,7 +28,9 @@ exported this csv file to the my sql workbench to work on databases
 
 
 ---
-##🚀 How to Run
+## 🚀 How to Run
+
+
 Import the ecomerce.csv file into your SQL database (e.g., using LOAD DATA or DB tool import).
 
 Run the queries in analysis_queries.sql.
