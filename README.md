@@ -26,6 +26,8 @@ exported this csv file to the my sql workbench to work on databases
 - **Database Engines**:  **MySQL**
 - SQL Editor ( MySQL Workbench )
 
+
+---
 ##🚀 How to Run
 Import the ecomerce.csv file into your SQL database (e.g., using LOAD DATA or DB tool import).
 
